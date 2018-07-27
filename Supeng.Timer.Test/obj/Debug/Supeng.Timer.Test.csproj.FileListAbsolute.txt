@@ -1,0 +1,8 @@
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\bin\Debug\Supeng.Timer.Test.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\bin\Debug\Supeng.Timer.Test.pdb
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\bin\Debug\Supeng.Timer.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\bin\Debug\Supeng.Timer.pdb
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\obj\Debug\Supeng.Timer.Test.csprojResolveAssemblyReference.cache
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\obj\Debug\Supeng.Timer.Test.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer.Test\obj\Debug\Supeng.Timer.Test.pdb

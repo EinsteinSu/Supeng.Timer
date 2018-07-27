@@ -1,0 +1,5 @@
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer\bin\Debug\Supeng.Timer.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer\bin\Debug\Supeng.Timer.pdb
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer\obj\Debug\Supeng.Timer.csprojResolveAssemblyReference.cache
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer\obj\Debug\Supeng.Timer.dll
+c:\users\esu\documents\visual studio 2015\Projects\Supeng.Timer\Supeng.Timer\obj\Debug\Supeng.Timer.pdb
